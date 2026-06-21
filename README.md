@@ -1,2 +1,14 @@
 # maxigame-notes
-HTML page archive and documentation
+
+页面文件归档说明
+
+发布任务会在此仓库中维护页面文件，方便后续访问。
+
+## 文件
+
+- 页面文件会直接写入仓库根目录
+- 仓库说明保存在 README.md
+
+## 访问状态
+
+如果 Pages 暂未生效，可稍后重试或查看仓库中的 HTML 文件。
